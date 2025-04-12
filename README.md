@@ -1,0 +1,2 @@
+# Karplus Strong
+In JUCE
